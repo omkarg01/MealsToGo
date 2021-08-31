@@ -1,0 +1,7 @@
+{
+    "extends": "@react-native-community",
+    // "semi": ["error", "never"],
+    "rules": {
+        "quotes": [2, "double", { "avoidEscape": true }]
+      }
+}
